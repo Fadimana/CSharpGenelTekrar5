@@ -1,0 +1,8 @@
+C:\Users\mm\source\repos\Alistıma\Alistıma\bin\Debug\Alistıma.exe.config
+C:\Users\mm\source\repos\Alistıma\Alistıma\bin\Debug\Alistıma.exe
+C:\Users\mm\source\repos\Alistıma\Alistıma\bin\Debug\Alistıma.pdb
+C:\Users\mm\source\repos\Alistıma\Alistıma\obj\Debug\Alistıma.csproj.AssemblyReference.cache
+C:\Users\mm\source\repos\Alistıma\Alistıma\obj\Debug\Alistıma.csproj.SuggestedBindingRedirects.cache
+C:\Users\mm\source\repos\Alistıma\Alistıma\obj\Debug\Alistıma.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Alistıma\Alistıma\obj\Debug\Alistıma.exe
+C:\Users\mm\source\repos\Alistıma\Alistıma\obj\Debug\Alistıma.pdb
